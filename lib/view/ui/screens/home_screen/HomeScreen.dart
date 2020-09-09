@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'file:///E:/flutter_courses/quizzler-flutter/lib/view/ui/screens/home_screen/widgets/CourseTypeTile.dart';
 import 'package:quizzler/model/utils/QuestionType.dart';
+import 'package:quizzler/view/ui/screens/home_screen/widgets/CourseTypeTile.dart';
 
 class HomeScreen extends StatelessWidget {
 

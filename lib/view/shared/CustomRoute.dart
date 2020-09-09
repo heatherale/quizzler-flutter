@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'file:///E:/flutter_courses/quizzler-flutter/lib/view/ui/screens/home_screen/HomeScreen.dart';
+import 'package:quizzler/view/ui/screens/home_screen/HomeScreen.dart';
 import 'package:quizzler/view/ui/screens/question_screen/QuestionScreen.dart';
 import 'package:quizzler/view/ui/screens/result_screen/ResultScreen.dart';
 import 'package:quizzler/view/ui/screens/under_construction_screen/UnderConstructionScreen.dart';
